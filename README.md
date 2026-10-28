@@ -1,3 +1,1 @@
-# ai-architect-portfolio
-AI agent and enterprise integration projects on Google Cloud.
-All data is public or synthetic. Week 1: in progress.
+# ai-architect-portfolio echo  echo Hands-on AI agent and enterprise integration projects on Google Cloud. echo  echo All data is public or synthetic. No employer or client data. echo  echo ## Planned projects echo  echo - RFP Response Assistant (RAG + ADK agent) echo - SAP/MCP Connector Agent (MCP server + ADK agent) echo  echo ## Progress echo  echo | Week | Theme | Status | echo |---|---|---| echo | 1 | Setup + hello agent | In progress |
